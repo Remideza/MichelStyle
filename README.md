@@ -7,7 +7,7 @@ The goal of it is to generate a video from a static image using Style Tranfer
 
 # How it works
 You first set the image that you want to create a video with as cover.jpg, then you set the themes you want to use by putting the 256x256 images in the param dir, you then name the images with the number of hundredth of a second you want for transision
-For example, in the included repo, you start with image 0 transition into the second image at 1 second then onto the third at 2 seconds and ends at 2.5 seconds on the last image
+For example, in the included repo, you start with image 0 transition into the second image at 1 second (100 hundredth) then onto the third at 2 seconds (200 hundredth) and ends at 2.5 seconds (250 hundredth) on the last image
 ![Here](https://i.ibb.co/kgQGKww/ex.jpg)
 
 
