@@ -3,7 +3,7 @@ MichelStyle is an implementation of theme images interpolation for [Fast Style T
 
 The goal of it is to generate a video from a static image using Style Tranfer
 ### An example with the first clip made with it, Otaniemi
-[![](http://img.youtube.com/vi/IYK83KiojzA/0.jpg)](http://www.youtube.com/watch?v=IYK83KiojzA "Otaniemi - Bend the Future")
+[![](http://img.youtube.com/vi/8ZwVkjvrIgA/0.jpg)](https://youtu.be/8ZwVkjvrIgA "Otaniemi - Bend the Future")
 
 # How it works
 Firstly, you should set the image using which you want to create a video with as cover.jpg, then you set the themes you want to use by putting the 256x256 images in the param dir. You then name the images with the number of hundredth of a second you want for transition.  
