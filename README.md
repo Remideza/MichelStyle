@@ -2,7 +2,7 @@
 MichelStyle is an implementation of theme images interpolation for [Fast Style Transfer for Arbitrary Styles](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/tf2_arbitrary_image_stylization.ipynb)
 
 The goal of it is to generate a video from a static image using Style Tranfer
-### An example with the first clip made with it, Otaniemi
+### An example with the first clip made with it, Otaniemi (clic on image for youtube video)
 [![](http://img.youtube.com/vi/8ZwVkjvrIgA/0.jpg)](http://www.youtube.com/watch?v=8ZwVkjvrIgA "Otaniemi - Bend the Future")
 
 # How it works
